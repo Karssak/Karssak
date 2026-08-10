@@ -8,10 +8,9 @@
   
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,go,java,django,flask,spring,react,vue,nodejs,html,css,tailwind,postgres,mysql,redis,docker,nginx,bash,linux,git,postman,figma,cypress,jest,selenium,electron&theme=tokyonight&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,go,java,django,flask,spring,react,vue,nodejs,html,css,tailwind,postgres,mysql,redis,docker,nginx,bash,linux,git,postman,figma,cypress,jest,selenium,electron&perline=10" />
   </a>
 </p>
-
 
 ██████████████████████████████████████████████████████████████████
 ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██████
