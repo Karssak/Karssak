@@ -4,7 +4,7 @@
 
 - **Lead Developer** on [Forge of Realms](#) — an ambitious online city-building MMORPG.
 - Working with backend/frontend architecture, game loop optimization, and real-time multiplayer logic.
-- Reach out to me: [`electrum_dragon@protonmail.com`](mailto:electrum_dragon@protonmail.com) | Telegram: [`@Karssaky`](https://t.me/Karssaky)
+- Reach out to me: [`electrum_dragon@protonmail.com`](mailto:electrum_dragon@protonmail.com) | Telegram: [`@Karssaky`](https://t.me/Karssaky) | Discord: [`@karssak`]
   
 <p align="left">
   <a href="https://skillicons.dev">
